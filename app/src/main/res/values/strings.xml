@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MidtermExam_2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="statistics">Statistics</string>
+    <string name="activities">Activities</string>
+</resources>
